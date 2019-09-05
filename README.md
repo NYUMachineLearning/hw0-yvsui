@@ -20,7 +20,7 @@ It should look something like this:
 1. Name:
   * _Yu_ **Sui**
 2. Favorite color 
-  * [Green]  
+  * <ins>Green</ins>  
 3. [Link](https://github.com/NYUMachineLearning/hw0-yvsui) to GitHub Repo 
 
   
