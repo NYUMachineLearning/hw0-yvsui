@@ -9,7 +9,7 @@
 
 [Markdown Tutorial](https://www.markdowntutorial.com/)
 
-#Assignments
+# Assignments
 1.Create a Heading right above this line &uarr; that says 'Assignments' 
 
 2.Create an ordered list detailing your first and last name, your favorite color, and the link to your GitHub repo. 
